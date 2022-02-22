@@ -45,7 +45,7 @@ h2,p{
 }
 
 .seta{
-    background-image: url(./src/seta.png);
+    background-image: url(../src/seta.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 1.3rem;
@@ -77,7 +77,7 @@ p{
 }
 
 .active .seta{
-    background-image: url(./src/seta-colorida.png);
+    background-image: url(../src/seta-colorida.png);
     width: 1.3rem;
     height: 0.7rem;
     background-size: cover;
